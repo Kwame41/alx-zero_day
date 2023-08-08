@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Hello, I am a coder.
-=======
-Hi
->>>>>>> update_script
+HEAD
+Hello, I am a coder
+Hi update_script
