@@ -1,1 +1,2 @@
-touch <filename>
+#!/bin/bash
+type 'vi up_to_date' to create it.
